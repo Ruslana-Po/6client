@@ -1,0 +1,19 @@
+Скачать QT
+Установка на Linux на примере Ubuntu
+
+Для установки Qt на Ubuntu/Debian применяется следующая команда
+
+sudo apt install qt6-base-dev
+
+А для установки Qt Creator применяется команда
+
+sudo apt install qtcreator
+Для запуска применяется команда qtcreator
+
+Также надо установить пакет CMake, который может пригодится при построении проекта
+
+sudo apt install cmake
+
+и пакет Clang
+
+sudo apt install clang
